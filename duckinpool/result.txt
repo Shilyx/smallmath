@@ -1,0 +1,14 @@
+duck count 1 result 1
+duck count 2 result 1
+duck count 3 result 0.7500142
+duck count 4 result 0.4999739
+duck count 5 result 0.3123764
+duck count 6 result 0.1873751
+duck count 7 result 0.10961
+duck count 8 result 0.062456
+duck count 9 result 0.0351224
+duck count 10 result 0.019562
+duck count 11 result 0.0107561
+duck count 12 result 0.0058672
+duck count 13 result 0.0031356
+duck count 14 result 0.0017135
